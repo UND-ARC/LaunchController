@@ -1,0 +1,9 @@
+# Ignore Temp SolidWorks Files
+~$*.SLDPRT
+~$*.SLDASM
+~$*.SLDDRW
+
+# Local build files
+.pio
+CMakeListsPrivate.txt
+cmake-build-*/ 
