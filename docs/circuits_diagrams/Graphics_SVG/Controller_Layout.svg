@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="13in"
+   height="10in"
+   viewBox="0 0 330.20001 254"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Controller_Layout.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="470.22601"
+     inkscape:cy="491.43921"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="-7"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect380"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,19,0,1 @ F,0,0,1,0,19,0,1 @ F,0,0,1,0,19,0,1 @ F,0,0,1,0,19,0,1"
+       unit="mm"
+       method="auto"
+       mode="F"
+       radius="19"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.269999"
+       id="rect378"
+       width="307.97501"
+       height="231.77499"
+       x="11.112497"
+       y="11.112503"
+       inkscape:path-effect="#path-effect380"
+       d="m 30.112497,11.112503 269.975003,0 a 19,19 45 0 1 19,19 V 223.8875 a 19,19 135 0 1 -19,19 H 30.112497 a 19,19 45 0 1 -19,-19 V 30.112503 a 19,19 135 0 1 19,-19 z" />
+  </g>
+</svg>
